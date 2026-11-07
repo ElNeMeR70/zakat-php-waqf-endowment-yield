@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/zakat-php-waqf-endowment-yield",
+  "description": "Perpetual Waqf Endowment Corpus Preservation & Yield Allocator (محاكي عوائد الوقف الإسلامي ومصارف النظارة والريع)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
